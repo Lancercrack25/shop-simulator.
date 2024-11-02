@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1730568608 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\main.cpp
+	<iostream>
+	<Usuario.h>
+	<Producto.h>
+	<Shoplist.h>
+	<Mainfunctions.h>
+	<vector>
+	<windows.h>
+	<locale.h>
+
+1722448408 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\producto.cpp
+	"Producto.h"
+	<iostream>
+
+1722299813 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\producto.h
+	<iostream>
+	<string>
+
+1730568764 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\usuario.cpp
+	"Usuario.h"
+	<iostream>
+
+1730567157 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\usuario.h
+	<iostream>
+	<string>
+
+1730570421 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\shoplist.cpp
+	"Shoplist.h"
+	"Producto.h"
+	<iostream>
+
+1722295387 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\shoplist.h
+	<vector>
+	<iostream>
+	"Producto.h"
+
+1722984169 c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\mainfunctions.h
+	"Producto.h"
+	"Usuario.h"
+	"Shoplist.h"
+	<iostream>
+	<windows.h>
+	<vector>
+
+1730570941 source:c:\users\luis galfridan\onedrive\escritorio\codigos programacion\portafolio trabajo\proyectos uni y personales\sistem_shop_simulator\simulador de compras app\mainfunctions.cpp
+	"Mainfunctions.h"
+	"Producto.h"
+	"Usuario.h"
+	"Shoplist.h"
+	<string>
+	<iostream>
+
