@@ -11,6 +11,8 @@ Proyecto personal que tiene como proposito el administrar un sistema de tienda e
 
 ▶️ Cómo compilar y ejecutar
 
+Para poder ejecutar este proyecto deberas tener instalado algun editor de codigo tal como visualStudio code o codeblocks
+
 1. Abre el archivo del proyecto (`.cbp`) en Code::Blocks.
 2. Compila el proyecto (`Build` > `Build`).
 3. Ejecuta desde Code::Blocks o desde el ejecutable generado (`Run` > `Run`).
